@@ -1,4 +1,5 @@
 # Exercícios Simples de HTML para Iniciantes
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 Este repositório contém uma coleção de exercícios simples de HTML, ideal para iniciantes que estão aprendendo a linguagem de marcação. Os exercícios foram projetados para ajudar a praticar conceitos básicos de HTML e criar páginas da web simples.
 
