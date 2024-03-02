@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Span para Cada Letra do Nome</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 50px;
+        padding: 0;
+    }
+    .span-nome span {
+        font-size: 24px;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-right: 5px;
+        border: 1px black solid;
+        border-radius: 10px;
+    }
+    .span-nome span:nth-child(1) {
+        color: #ff0000; /* vermelho */
+    }
+    .span-nome span:nth-child(2) {
+        color: #00ff00; /* verde */
+    }
+    .span-nome span:nth-child(3) {
+        color: #0000ff; /* azul */
+    }
+    .span-nome span:nth-child(4) {
+        color: #ff00ff; /* magenta */
+    }
+    .span-nome span:nth-child(5) {
+        color: #ffff00; /* amarelo */
+    }
+    .span-nome span:nth-child(6) {
+        color: #00ffff; /* ciano */
+    }
+    .span-nome span:nth-child(7) {
+        color: #ff8000; /* laranja */
+    }
+    .span-nome span:nth-child(8) {
+        color: #808080; /* cinza */
+    }
+    .span-nome span:nth-child(9) {
+        color: #800080; /* roxo */
+    }
+</style>
+</head>
+<body>
+    <div class="span-nome">
+        <span>L</span>
+        <span>U</span>
+        <span>C</span>
+        <span>A</span>
+        <span>S</span>
+        <span>L</span>
+        <span>E</span>
+        <span>S</span>
+        <span>S</span>
+        <span>A</span>
+    </div>
+    <button onclick="window.history.back()">Voltar</button>
+
+</body>
+</html>
