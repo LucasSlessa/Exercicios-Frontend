@@ -1,7 +1,14 @@
-# Exercícios Simples de HTML para Iniciantes
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+# Exercícios Simples de Front-End pra iniciantes
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+            <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+            <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+            <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          
+          
+          
+          
 
-Este repositório contém uma coleção de exercícios simples de HTML, ideal para iniciantes que estão aprendendo a linguagem de marcação. Os exercícios foram projetados para ajudar a praticar conceitos básicos de HTML e criar páginas da web simples.
+Este repositório contém uma coleção de exercícios simples de Front-End, ideal para iniciantes que estão aprendendo a linguagem de marcação. Os exercícios foram projetados para ajudar a praticar conceitos básicos de HTML e criar páginas da web simples.
 
 ## Como Usar
 
